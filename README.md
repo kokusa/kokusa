@@ -1,4 +1,4 @@
-[gitpod](https://github.com/kokusa/kokusa/tree/master)
+[gitpod](https://gitpod.io/#github.com/kokusa/kokusa/tree/master)
 
 ### Hi there 👋
 
